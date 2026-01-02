@@ -1,9 +1,4 @@
-これまでの実装内容をまとめた、実用的で分かりやすい `README.md` を作成しました。
-プロジェクトのルートディレクトリに保存して使用してください。
-
----
-
-# 🖥️ Amembo VM Controller
+# 🖥️ proxmox-ldap-manager
 
 Streamlit を使用した、軽量かつ高機能な Proxmox VE 管理 Web インターフェースです。
 LDAP 認証によるユーザー管理、物理ノードの Wake-on-LAN (WOL)、VM の排他制御機能を備えています。
